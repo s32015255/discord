@@ -25,7 +25,7 @@
     height: calc(var(--icon) + var(--server-icon-spacing)) !important;
   }
   .guilds-1SWlCJ [class*=pill] {
-    height: calc(var(--icon) - 15px);
+    height: calc(var(--icon) - 30px);
     top: 50%;
     transform: translateY(-50%);
   }
